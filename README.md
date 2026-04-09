@@ -1,5 +1,10 @@
 # Movie SQL Analysis
 
+A beginner-friendly SQL data analysis project demonstrating joins, aggregation, and insights.
+
+## Objective
+Analyze movie data using SQL to understand sales trends and ratings.
+
 ## Objective
 Analyze movie data using SQL to understand sales trends and ratings.
 
