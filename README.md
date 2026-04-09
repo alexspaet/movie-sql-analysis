@@ -5,9 +5,6 @@ A beginner-friendly SQL data analysis project demonstrating joins, aggregation, 
 ## Objective
 Analyze movie data using SQL to understand sales trends and ratings.
 
-## Objective
-Analyze movie data using SQL to understand sales trends and ratings.
-
 ## What I did
 - Joined movie and box office data
 - Calculated total sales per movie
